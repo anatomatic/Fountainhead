@@ -15,32 +15,17 @@
             <dict>
                 <key>background</key>
                 <string>#202020</string>
-                <!-- <string>#272822</string> -->
-                <!-- <string>#191919</string> -->
-                <!-- <string>#222222</string> -->
                 <key>caret</key>
                 <string>#E28964</string>
-                <!-- <string>#34c4e0</string> -->
-                <!-- <string>#fffff8</string> -->
                 <!-- Action, Centered Text, Title Page -->
                 <key>foreground</key>
                 <string>#B8B8B8</string>
-                <!-- <string>#9d9d9d</string> -->
-                <!-- <string>#fffff8</string> -->
-                <!-- <string>#066f54</string> -->
-                <!-- <string>#f2e5cb</string> -->
-                <!-- <string>#D2C4A2</string> -->
-                <!-- <string>#f6f6f6</string> -->
-                <!-- <string>#e2f7fe</string> -->
                 <key>invisibles</key>
                 <string>#bfbfbf</string>
                 <key>lineHighlight</key>
                 <string>#1e1e1e</string>
-                <!-- <string>#2b2e33</string> -->
                 <key>selection</key>
                 <string>#A8644A</string>
-                <!-- <string>#9D550F</string> -->
-                <!-- <string>#373b41</string> -->
                 <key>selectionForeground</key>
                 <string>#fffff8</string>
                 <key>inactiveSelection</key>
@@ -66,10 +51,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#808080</string>
-                <!-- <string>#0c5986</string> -->
-                <!-- <string>#bf6514</string> -->
-                <!-- <string>#75715e</string> -->
-                <!-- <string>#9c7308</string> -->
                 <key>fontStyle</key>
                 <string>italic</string>
             </dict>
@@ -83,15 +64,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#D7B977</string>
-                <!-- <string>#25a4ec</string> -->
-                <!-- <string>#00ec61</string> -->
-                <!-- <string>#18da55</string> -->
-                <!-- <string>#f92772</string> -->
-                <!-- <string>#da6400</string> -->
-                <!-- <string>#ff831c</string> -->
-                <!-- <string>#be17d2</string> -->
-                <!-- <string>#cdcdcd</string> -->
-                <!-- <string>#25a4ec</string> -->
                 <key>fontStyle</key>
                 <string>bold</string>
             </dict>
@@ -105,8 +77,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#E28964</string>
-                <!-- <string>#25a4ec</string> -->
-                <!-- <string>#1079b5</string> -->
                 <!-- <key>fontStyle</key>
                 <string>bold</string> -->
             </dict>
@@ -120,22 +90,6 @@
                 <dict>
                     <key>foreground</key>
                     <string>#B8B8B8</string>
-                    <!-- <string>#f3f3f3</string> -->
-                    <!-- <string>#8f8f8f</string> -->
-                    <!-- <string>#a0a0a0</string> -->
-                    <!-- <string>#69ef92</string> -->
-                    <!-- <string>#10953a</string> -->
-                    <!-- <string>#0070b0</string> -->
-                    <!-- <string>#ad6af7</string> -->
-                    <!-- <string>#75715e</string> -->
-                    <!-- <string>#9d9d9d</string> -->
-                    <!-- <string>#FFF0FF</string> -->
-                    <!-- <string>#e7f3f7</string> -->
-                    <!-- <string>#eeeee0</string> -->
-                    <!-- <string>#e2f7fe</string> -->
-                    <!-- <string>#f6f6f6</string> -->
-                    <!-- <string>#D2C4A2</string> -->
-                    <!-- <string>#f7b9d0</string> -->
                 </dict>
         </dict>
         <dict>
@@ -147,13 +101,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#8DB7A5</string>
-                <!-- <string>#1079b5</string> -->
-                <!-- <string>#96f827</string> -->
-                <!-- <string>#24e762</string> -->
-                <!-- <string>#10b551</string> -->
-                <!-- <string>#00a0fd</string> -->
-                <!-- <string>#f92772</string> -->
-                <!-- <string>#18da55</string> -->
             </dict>
         </dict>
         <dict>
@@ -165,8 +112,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#808080</string>
-                <!-- <string>#f92772</string> -->
-                <!-- <string>#c05800</string> -->
                 <key>fontStyle</key>
                 <string>italic</string>
             </dict>
@@ -180,12 +125,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#A7616B</string>
-                <!-- <string>#9e71ef</string> -->
-                <!-- <string>#e125ec</string> -->
-                <!-- <string>#ae81ff</string> -->
-                <!-- <string>#a48f14</string> -->
-                <!-- <string>#b5bd68</string> -->
-                <!-- <string>#fa669b</string> -->
             </dict>
         </dict>
         <dict>
@@ -199,7 +138,6 @@
                 <string>#909090</string>
                 <key>background</key>
                 <string>#a7e9b011</string> 
-                <!-- <string>#cbd012</string> -->
                 <key>fontStyle</key>
                 <string>italic</string>
             </dict>
@@ -212,9 +150,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <!-- <string>#75715e</string> -->
                 <string>#394347</string>
-                <!-- <string>#5a6a70</string> -->
                 <key>fontStyle</key>
                 <string>italic</string>
             </dict>
@@ -280,7 +216,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#A7616B</string>
-                <!-- <string>#34c4e0</string> -->
             </dict>
         </dict>
         <dict>
