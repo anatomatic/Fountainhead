@@ -24,20 +24,22 @@ Compatible with Sublime Text [2](http://www.sublimetext.com) and [3](http://www.
 ## Quickstart
 
 1. Open your Fountain file.
-2. Verify that "Fountain" appears in the bottom right-hand corner.
+2. Verify that "Fountainhead" appears in the bottom right-hand corner.
     - If it doesn't, you can click on the offending syntax and change it to "Fountain", or you can use the menu: `View > Syntax > Open all with current extension as > Fountain`.
 3. Write!
 
 ## Functionality
 
 ### Fountain Syntax
+The Fountain Syntax is a plaintext markup for screenwriters, invented by John August & Stu Maschiwitz. Take a look at the detailed  [Fountain spec](http://fountain.io/syntax) or check out this handy [cheatsheet](http://fountain.io/_downloads/fountain-reference.pdf).
 
 ### Capitalization
+On return character elements & sluglines get autocapitalized.
+
+### Smart Line Skipping
+Fountainhead is smart about inserting blank lines for the Fountain parser. So if you hit `enter` after a slugline, action, dialogue, transition, or centered text it will add an extra line automatically. But `enter` after a title page Key: Value pair, !Forced Action, ~Lyrics, or a Characther name (with or without @), [[Notes]], ==Synopses, or #Sections — you'll be get a normal single carriage return.
 
 ### Page Scroll
-
-
-
 
 ## Settings
 
@@ -45,7 +47,26 @@ Compatible with Sublime Text [2](http://www.sublimetext.com) and [3](http://www.
 
 ## Keybindings (Mac/Windows/Linux)
 
+### Lists
+Update your Character and Scene lists from the Command Palette with `Fountainhead: Update ...`
+`super + shift + s`  Show Scene List
+`super + shift + c`  Show Character List
 
+### Show/Hide Boneyard, Synopses, and Notes
+`ctrl + k, ctrl + /`  Toggle Boneyard
+`ctrl + k, ctrl + =`  Toggle Synopses
+`ctrl + k, ctrl + [`  Toggle Notes
+
+### Text
+[Pairs], _Pairs_, *Pairs* all auto-wrap
+`super + k, super + u` convert to UPPERCASE
+`super + k, super + l` convert to lowercase
+
+### Navigation
+ `shift + space` Move the cursor forward (same as right arrow key)  
+ `shift + enter` Move cursor down a line (same as down arrow key)  
+ `tab` Move outside of notes, parentheticals/parentheses, quotes, and underlined/italic/bold text  
+   
 ---
 Feel free to drop me a [line](http://classicblunders.com/contact), or a [dime](https://gratipay.com/derickc/).
 
